@@ -1,11 +1,11 @@
-﻿Using System;
+﻿using System;
 namespace CS5 
 {
 class Program 
-   {  
+ {  
     static void Main(string[] args)
      {
-      // 
+      // Unidad 1: Estructuras de funcion II
       // Unidad 2: Funciones II 
       // Sesión 12: Intrucciones while 30092026
       // Sintaxis: while 
